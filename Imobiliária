@@ -1,0 +1,30 @@
+<table border="1">
+  <thead>
+    <tr>
+      <th>Valor de Venda do Apartamento</th>
+      <th>Valor do Financiamento</th>
+      <th>Desconto</th>
+      <th>Valor Total</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>500000</td>
+      <td>200000</td>
+      <td>50000</td>
+      <td>250000</td>
+    </tr>
+    <tr>
+      <td>600000</td>
+      <td>250000</td>
+      <td>60000</td>
+      <td>290000</td>
+    </tr>
+    <tr>
+      <td>700000</td>
+      <td>300000</td>
+      <td>70000</td>
+      <td>330000</td>
+    </tr>
+  </tbody>
+</table>
